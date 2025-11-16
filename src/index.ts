@@ -1,2 +1,2 @@
-export { SSEKeeper } from './SSEKeeper';
+export { SSEKeeper } from './sse-keeper';
 export type { SSEKeeperOptions } from './types';

@@ -1,6 +1,6 @@
 {
   "name": "sse-keeper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight SSE manager with auto-reconnect and subscription restore",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

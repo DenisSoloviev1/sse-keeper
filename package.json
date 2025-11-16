@@ -19,5 +19,9 @@
   ],
   "author": "Denis Soloviev",
   "license": "MIT",
-  "repository": "github:DenisSoloviev1/sse-keeper"
+  "repository": "github:DenisSoloviev1/sse-keeper",
+  "devDependencies": {
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
+  }
 }

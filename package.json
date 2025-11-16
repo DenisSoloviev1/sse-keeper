@@ -1,0 +1,23 @@
+{
+  "name": "sse-keeper",
+  "version": "1.0.0",
+  "description": "Lightweight SSE manager with auto-reconnect and subscription restore",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts"
+  },
+  "keywords": [
+    "sse",
+    "server-sent-events",
+    "realtime",
+    "reconnect",
+    "singleton"
+  ],
+  "author": "Denis Soloviev",
+  "license": "MIT",
+  "repository": "github:DenisSoloviev1/sse-keeper"
+}

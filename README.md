@@ -1,4 +1,5 @@
 ![npm](https://img.shields.io/npm/v/sse-keeper?style=flat-square)
+![npm](https://img.shields.io/npm/dm/sse-keeper)
 ![GitHub](https://img.shields.io/github/stars/DenisSoloviev1/sse-keeper?style=flat-square)
 
 # SSE Keeper

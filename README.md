@@ -1,3 +1,6 @@
+![npm](https://img.shields.io/npm/v/sse-keeper?style=flat-square)
+![GitHub](https://img.shields.io/github/stars/DenisSoloviev1/sse-keeper?style=flat-square)
+
 # SSE Keeper
 
 A lightweight, dependency-free Server-Sent Events (SSE) connection manager with automatic reconnection and subscription management.

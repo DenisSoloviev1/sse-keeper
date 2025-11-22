@@ -255,7 +255,9 @@ export class SSEKeeper {
    */
   private reconnect() {
     if (this.reconnectAttempts >= this.maxReconnectAttempts) {
-      return;
+      throw new Error(
+        `SSE connection failed: Maximum reconnection attempts (${this.maxReconnectAttempts}) exceeded for ${this.baseUrl}`
+      );
     }
 
     this.reconnectAttempts++;
